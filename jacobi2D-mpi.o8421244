@@ -1,0 +1,25 @@
+TACC: Starting up job 8421244
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][spawn_processes] Failed to execvp() './jacobi2D-mpi': No such file or directory (2)
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][spawn_processes] Failed to execvp() './jacobi2D-mpi': No such file or directory (2)
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][spawn_processes] Failed to execvp() './jacobi2D-mpi': No such file or directory (2)
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][spawn_processes] Failed to execvp() './jacobi2D-mpi': No such file or directory (2)
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][spawn_processes] Failed to execvp() './jacobi2D-mpi': No such file or directory (2)
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][spawn_processes] Failed to execvp() './jacobi2D-mpi': No such file or directory (2)
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 0, pid: 16742) exited with status 1
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][spawn_processes] Failed to execvp() './jacobi2D-mpi': No such file or directory (2)
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][spawn_processes] Failed to execvp() './jacobi2D-mpi': No such file or directory (2)
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 1, pid: 16743) exited with status 1
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 2, pid: 16744) exited with status 1
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 3, pid: 16745) exited with status 1
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 4, pid: 16746) exited with status 1
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 5, pid: 16747) exited with status 1
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 6, pid: 16748) exited with status 1
+[c557-803.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 7, pid: 16749) exited with status 1
+Timeout during client startup.
+read: Connection reset by peer
+Error writing receiving environ!
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
