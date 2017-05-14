@@ -5,7 +5,6 @@ Homework4, MPI blocking and non-blocking, parallel sample sort.
 Type `make` in a terminal.
 
 ## Find MPI bugs
-
 Enter `mpirun -np 4 ./mpi_solved{1,2,...,7}`.
 
 ## Run MPI-parallel 2D Jacobi smoother
